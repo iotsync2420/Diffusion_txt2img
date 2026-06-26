@@ -17,5 +17,5 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          git remote add hf https://iotsync2420:$HF_TOKEN@huggingface.co/spaces/iotsync2420/Diffusion_txt2img
+          git remote add hf https://beingVaishnavi:$HF_TOKEN@huggingface.co/spaces/beingVaishnavi/dreamforge
           git push --force hf main
