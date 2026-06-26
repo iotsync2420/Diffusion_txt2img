@@ -1,4 +1,4 @@
-# Your sync configuration is safe here
+
 name: Sync to Hugging Face Hub
 on:
   push:
