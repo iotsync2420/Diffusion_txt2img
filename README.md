@@ -14,7 +14,7 @@
 ## 📸 Style Showcase & Demo
 
 ### 🖼️ UI Walkthrough
-![DreamForge Demo](cyberpunk-Copy.png)
+![DreamForge Demo](cyberpunk.png)
 
 ### 🎨 One Prompt, Multiple Aesthetics
 > **Prompt:** *"A futuristic cyberpunk warrior standing in the rain"*
