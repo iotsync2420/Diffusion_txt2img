@@ -72,12 +72,13 @@ def generate_img2img(image, prompt, hf_token, model_key="Stable Diffusion 1.5"):
     return None, f"Error {response.status_code}: {response.text}"
 
 import importlib
-import generate
+import streamlit as st
+#import generate
 # This forces Colab to read the brand new version of generate.py on disk
 importlib.reload(generate)
 
 from generate import generate_text2img
-from google.colab import userdata
+#from google.colab import userdata
 
 try:
     HF_TOKEN = userdata.get('HF_TOKEN')
