@@ -1,4 +1,4 @@
-%%writefile generate.py
+
 import requests
 import io
 from PIL import Image
