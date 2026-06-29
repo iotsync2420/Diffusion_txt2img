@@ -19,9 +19,9 @@
 ### 🎨 One Prompt, Multiple Aesthetics
 > **Prompt:** *"A futuristic cyberpunk warrior standing in the rain"*
 
-| ⛩️ Anime Style | 📸 Photorealistic | 🤖 Cyberpunk |
-|:---:|:---:|:---:|
-| ![Anime](anime.png) | ![Photorealistic](photorealistic.png) | ![Cyberpunk](cyberpunk-Copy.png) 
+| ⛩️ Anime Style | 📸 Photorealistic |
+|:---:|:---:|
+| ![Anime](anime.png) | ![Photorealistic](photorealistic.png) |  
 
 ---
 
